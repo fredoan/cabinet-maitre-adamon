@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://officenotarialmaitreadamon.com/sitemap.xml
